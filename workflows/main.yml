@@ -1,4 +1,4 @@
-name: Singularity Build
+name: Singularity build
 on: [push]
 jobs:
 
